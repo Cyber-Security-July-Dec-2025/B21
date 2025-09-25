@@ -25,8 +25,8 @@ A **web-based secure file storage system** that ensures confidentiality and inte
 
 **Backend:**
 
-* Node.js / Next.js (for storage and retrieval)
-* `crypto` module / OpenSSL / Crypto++ (server-side utilities)
+* Node.js 
+* OpenSSL
 
 **Storage:**
 
