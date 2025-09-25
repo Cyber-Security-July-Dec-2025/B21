@@ -83,11 +83,11 @@ cd B21
 
 ```bash
 # For frontend (React)
-cd frontend
+cd server
 npm install
 
 # For backend (Node.js / Next.js)
-cd backend
+cd client
 npm install
 ```
 
